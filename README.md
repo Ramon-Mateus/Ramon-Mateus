@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Ramon Mateus 😉
 
-- 🌱 Estudando Front-end, back-end, game dev
+##- 🌱 Estudando Front-end, back-end, game dev
 
 <div align="center">
   <a href="https://github.com/Ramon-Mateus">
