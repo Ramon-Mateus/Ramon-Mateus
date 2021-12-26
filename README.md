@@ -1,4 +1,4 @@
-## Olá, Eu sou o Ramon Mateus
+## Olá, Eu sou o Ramon Mateus 😉
 
 - 🌱 Estudando Front-end, back-end, game dev
 
