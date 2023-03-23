@@ -1,9 +1,5 @@
 # Hello there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ramon-Mateus.Ramon-Mateus)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
