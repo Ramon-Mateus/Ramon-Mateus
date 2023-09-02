@@ -17,7 +17,7 @@ class SoftwareDeveloper:
 
     def about_me(self):
         print("💻 Studying Pascal and Delphi 🖥️ | 📊 Databases | 👨‍💻 Passionate about Software Development")
-        say_hi()
+        self.say_hi()
 
 
 me = SoftwareDeveloper()
