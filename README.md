@@ -15,7 +15,11 @@ class SoftwareDeveloper:
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my works interesting.")
 
+    def about_me(self):
+        print("💻 Studying Pascal and Delphi 🖥️ | 📊 Databases | 👨‍💻 Passionate about Software Development")
+        say_hi()
+
 
 me = SoftwareDeveloper()
-me.say_hi()
+me.about_me()
 ```
