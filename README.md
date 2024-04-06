@@ -5,7 +5,7 @@
 
 
 <p align="left">Atualmente estou cursando Engenharia da Computação pela UFRN, porém, já completei dois técnicos. Um em Informática para Internet e outro em Desenvolvimento de Jogos Digitais.
-Minhas principais stacks de estudo no momento são C# e Angular, porém tenho bastante projetos em Node.
+Minhas principais stacks de estudo no momento são C# e Angular, porém tenho bastante projeto em Node.
 Acho muito interessante desenvolvimento back-end, dev games e infraestrutura!
 
 
