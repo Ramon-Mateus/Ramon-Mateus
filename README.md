@@ -15,6 +15,7 @@ Acho muito interessante desenvolvimento back-end, dev games e infraestrutura!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue&color:FFF)](https://www.linkedin.com/in/ramon-oliveira-673871230/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=blue&color:FFF)](https://www.instagram.com/ramonmateus00/)
 
+<!---
 <h3 align="left">My Stack</h3>
 
 <div align="left">
@@ -38,17 +39,13 @@ Acho muito interessante desenvolvimento back-end, dev games e infraestrutura!
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="25" alt="unity logo"  />
 </div>
-
+-->
 
 <h3>GitHub Stats</h3>
-
  
 [![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramon-mateus&theme=github_dark)](#)
 [![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramon-mateus&theme=github_dark)](#)
 [![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramon-mateus&theme=github_dark)](#)
-
-<br>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramon-mateus/ramon-mateus/output/github-contribution-grid-snake-dark.svg">
