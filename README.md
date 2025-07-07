@@ -42,8 +42,11 @@ Acho muito interessante desenvolvimento back-end, dev games e infraestrutura!
 
 <h3>GitHub Stats</h3>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ramon-mateus&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=blue&text_color=FFF&border_radius=3&border_color=blue&icon_color=blue&theme=jolly)
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ramon-mateus&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=blue&hide=html,css&bg_color=000&text_color=blue&border_radius=3&border_color=blue&count_private=true)](https://github.com/ramon-mateus/github-readme-stats)
+ 
+[![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramon-mateus&theme=github_dark)](#)
+[![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramon-mateus&theme=github_dark)](#)
+[![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramon-mateus&theme=github_dark)](#)
+
 <br>
 
 
